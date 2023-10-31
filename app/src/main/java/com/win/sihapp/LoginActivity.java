@@ -9,6 +9,8 @@ import android.widget.Button;
 import android.widget.EditText;
 import android.widget.QuickContactBadge;
 
+// Login Page
+
 public class LoginActivity extends AppCompatActivity {
 EditText edtemaillg,edtpasslg;
 Button btnlogin;
